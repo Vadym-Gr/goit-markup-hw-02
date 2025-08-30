@@ -39,7 +39,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .web {
@@ -49,7 +49,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .header-menu-list {}
@@ -112,7 +112,6 @@ body {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;}
 
 .hero-btn {
@@ -141,8 +140,7 @@ body {
 .advantages-section-list {}
 
 .advantages-section-item {
-    width: 264px;
-    height: 104px;
+    
 }
 
 .advantages-section-subtitle {
@@ -171,17 +169,14 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-section-list {}
 
 .team-section-item {
     background-color: #fff;
-    border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px;
-    width: 264px;
-    height: 380px;
-}
+    }
 
 .team-section-img {}
 
@@ -190,14 +185,12 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
 .team-section-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 
 /*---OUR PORTFOLIO---*/
@@ -208,8 +201,8 @@ body {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .portfolio-section-list {}
@@ -242,6 +235,16 @@ body {
 }
 
 .footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.stud {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
